@@ -1,0 +1,19 @@
+[
+    
+    {
+        "title": "Der kritische Fußballfan",
+        "category": "",
+        "url": "http://localhost:3000/2014/07/03/der-kritische-fussballfan.html",
+        "date": "2014-07-03 23:27:31 +0800",
+        "shortdate": "July 03, 2014"
+    } , 
+    
+    {
+        "title": "Hello World!",
+        "category": "",
+        "url": "http://localhost:3000/2014/07/02/hello-world.html",
+        "date": "2014-07-02 00:00:00 +0800",
+        "shortdate": "July 02, 2014"
+    } 
+    
+]

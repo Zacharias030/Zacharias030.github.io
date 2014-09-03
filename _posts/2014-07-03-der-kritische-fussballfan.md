@@ -1,17 +1,17 @@
-Fireball: 
-
-KOPFKOMPOST KLAPPE DIE ERSTE
-=========================== 
-
-Der kritische Fußballfan
-------------------------
+---
+layout: post
+title: Der kritische Fußballfan
+date: 2014-07-03 15:27:31
+#comments: no
+---
 
 Ey findet ihr nicht auch die Schiedsrichter bei dieser WM ganz schön viel Mist machen? Ich habe mir dazu mal ein paar Gedanken gemacht: 
 
 <iframe src="//giphy.com/embed/L6EUe2vQ0Q90Y?playOnHover=true" width="500" height="376" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Die WM 2014, sie ist einzigartig. Einzigartig in so vielerlei Hinsicht. Zum Beispiel hat es im Vorhinein eine Kritik an der FIFA gegeben wie nie zuvor. [Menschenrechtsverletzungen][1], [Korruption][2] und [Wirtschaftsinteressen][3] einer non- profit Organisation werfen ein schlechtes Licht auf die konkurrenzlosen Organisatoren einer Fußballweltmeisterschaft. Es wurden viele Fragen berechtigt gestellt, doch im großen und ganzen entspricht das Resultat wohl dem „Sausage Principle“, welches John Oliver in seinem [Video][4] so schön darlegt, „I don't want to know what it's made of!“.
-Andere wollen es dann doch genauer Wissen. [Die Zeit][5] fordert zum Beispiel vor der WM sogar zu einem Lifestyle- Wandel  auf: „Konsumenten und Gebührenzahler haben Macht: Trinkt andere Getränke! Tragt andere Klamotten! Fahrt andere Autos! Verlangt etwas für eure TV-Gebühren! Noch ist das Spiel nicht verloren!“. 
+Andere wollen es dann doch genauer Wissen. [Die Zeit][5] fordert zum Beispiel vor der WM sogar zu einem Lifestyle- Wandel  auf: „Konsumenten und Gebührenzahler haben Macht: Trinkt andere Getränke! Tragt andere Klamotten! Fahrt andere Autos! Verlangt etwas für eure TV-Gebühren! Noch ist das Spiel nicht verloren!“.
+
 
 Klingt erst mal ganz schön krass, aber wie im selben Artikel beschrieben wird, scheint es die Sponsoren nicht großartig zu stören, dass das aufkommende schlechte Image der FIFA auf sie übergehen könnte, sind die Reaktionen wohl eher der Form halber und ziehen keine nennenswerten Untersuchungen nach sich. 
 
@@ -30,7 +30,7 @@ Die FIFA bricht Menschenrechte um ihren Sponsoren eine Hochglanz- WM zu liefern 
 Aber zu glauben damit durchzukommen den deutschen Fußballfans in ihrem Lieblingssport etwas vorzumachen? Wenn sie sich damit mal nicht zu weit aus dem Fenster gelehnt hat.
 
 
-*Panda, 03.07.2014*
+*Panda*
 
 [1]: https://www.amnesty.de/2013/11/17/fussball-wm-2022-katar-stoppt-die-ausbeutung-der-arbeitsmigranten "Menschenrechtsverletzungen"
 [2]: http://www.spiegel.de/politik/ausland/wm-2014-in-brasilien-korruption-im-fussball-kolumne-jakob-augstein-a-974670.html "Korruption"
