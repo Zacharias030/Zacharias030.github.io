@@ -12,7 +12,11 @@ markdown: rdiscount #redcarpet
 rdiscount:
   extensions: [smart]
   
-google_analytics: #
+#google_analytics: #
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-58541221-1'
 
 owner:
   name: Zacharias Fisches
