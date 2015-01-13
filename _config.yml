@@ -1,0 +1,20 @@
+title: Kopfkompost
+description: "Kopfkompost: Panda und Zebra kompostieren Gedanken"
+
+url: "http://kopfkompost.com"
+port: 3000
+#highlighter: pygments
+
+permalink: /:year/:month/:day/:title.html
+
+markdown: rdiscount #redcarpet
+# enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
+rdiscount:
+  extensions: [smart]
+  
+google_analytics: #
+
+owner:
+  name: Zacharias Fisches
+  disqus_shortname: zac
+  twitter: Zacharias030
