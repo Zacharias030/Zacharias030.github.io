@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn and Think - Chinas Entrepreneure
+title: Learning and Thinking - Chinas Entrepreneure
 date: 2014-09-08
 #comments: yes
 excerpt: Die Haltung der meisten Leute gegenüber China ist eine Mischung aus Angst, Bewunderung und Ablehnung. Der Großteil des Wissens über China besteht aus verjährten Anekdoten. Zumindest soll mir hier ein Update dieses anekdotischen Wissens gelingen.
