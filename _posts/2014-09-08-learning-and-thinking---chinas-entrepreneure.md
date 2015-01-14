@@ -6,12 +6,14 @@ date: 2014-09-08
 excerpt: Die Haltung der meisten Leute gegenüber China ist eine Mischung aus Angst, Bewunderung und Ablehnung. Der Großteil des Wissens über China besteht aus verjährten Anekdoten. Zumindest soll mir hier ein Update dieses anekdotischen Wissens gelingen.
 ---
 
-Die Haltung der meisten Leute gegenüber China ist eine Mischung aus Angst, Bewunderung und Ablehnung. Der Großteil des Wissens über China besteht aus verjährten Anekdoten. Zumindest soll mir hier ein Update dieses anekdotischen Wissens gelingen.  
+Die Haltung der meisten Leute gegenüber China ist eine Mischung aus Angst, Bewunderung und Ablehnung. Der Großteil des Wissens über China besteht aus verjährten Anekdoten. Zumindest soll mir hier ein Update dieses anekdotischen Wissens gelingen.
+ 
 In den Augen vieler besteht die chinesische Industrie aus Zuliefern und Plagiatoren, die ausländische Produkte eins-zu-eins kopieren, verkaufen und dann wieder verschwinden. Eine Identität haben diese Firmen nicht, sondern sie zehren nur vom Glanz großer Marken. Doch weit Gefehlt!
 I
 ---------
 Enter Jack Ma.  
-Jack Ma (Ma Yun) wurde 1964 in Hangzhou geboren und war einer der ersten Gründer in China der 1995 mit Internet Startups experimentierte; kurz nachdem China an das Internet angeschlossen wurde. 1999 gründete er eine kleine Firma, die es in- und ausländischen Firmen erlaubte Zuliefererkontakte über das Internet zu machen und dort gleich auch Produkte zu handeln. Ein Amazon für Zulieferer.  
+Jack Ma (Ma Yun) wurde 1964 in Hangzhou geboren und war einer der ersten Gründer in China der 1995 mit Internet Startups experimentierte; kurz nachdem China an das Internet angeschlossen wurde. 1999 gründete er eine kleine Firma, die es in- und ausländischen Firmen erlaubte Zuliefererkontakte über das Internet zu machen und dort gleich auch Produkte zu handeln. Ein Amazon für Zulieferer.
+
 Heute ist aus Jack Mas Firma die Alibaba Group geworden, unter dessen Dach sich eine Handvoll Handelsplattformen wie Taobao, Alibaba und Tmall vereinen. Zusammen deckt die Alibaba Group ab, was Amazon und Ebay im Westen tun und darüberhinaus noch einiges mehr, wie die Zulieferergeschäfte von Alibaba. Dass Jack Ma als reichster Mann Chinas als Visionär gefeiert und verehrt wird ist nicht zuletzt dem Erdrutsch zu verdanken den er ausgelöst hat:  
 Seit Alibaba können sich einzelne Akteure in China selbstständig machen und am Zulieferergeschäft der Großen teilnehmen. Eine Demokratisierung des B2B Geschäfts für Produkte jeder Art. Sogar eine gebrauchte Boeing 747 ist auf Alibaba zu kaufen.  
 Nicht verwunderlich ist es, dass eine neue Generation chinesischer Unternehmer herangewachsen ist.
@@ -28,7 +30,10 @@ In diesem Frühjahr entthronte Xiaomi mit Hilfe des Mi3 Smartphones Samsung als 
 
 IV
 ------
-Verkehrte Welt  
+Verkehrte Welt
+
+
+
 Auf clevere Art und Weise verstehen es chinesische Entrepreneure wie Lei Jun den Branchenriesen Angst einzujagen:  
 In 2013 holte er [Hugo Barra][2] als "head of international business development" an Bord, um die internationale Expansion und Strategie zu leiten. Barra war vorher bei Google Vizepräsident für Android Produktmanagement. 'Brain-drain' in die andere Richtung. Und so wird Xiaomi dem heimischen Konsumenten nicht mehr lange unbekannt bleiben, obwohl es [ankündigte][3] das Mi4 nicht offiziell in Europa vertreiben zu wollen. Dies wollen wir Lei Jun hier eher als Luxus auslegen, den er sich erlaubt, denn als Zeichen der Schwäche, denn zunächst will der ebenfalls riesige südamerikanische Markt erobert werden.  
 Ein anderer Move, den Lei Jun mit Xiaomi machte, war eine Partnerschaft mit dem Hersteller der crowd-funded open-source Konsole ######Ohya einzugehen, dessen Absatz in den USA enttäuschte, und Ohyas hunderten von Spielen damit eine zweite Chance zu verschaffen und noch dazu auf dem mit ##### Mrd. Dollar größten Videospiele Markt der Welt. Ohyas Plattform wird dabei auf den Smart-TVs von Xiaomi vorinstalliert sein. Lei Jun macht Ohya als Konsolenplattform für Spiele-Entwickler interessanter und verschafft dem Xiaomi TV gleichzeitig ein Alleinstellungsmerkmal auf dem heimischen Markt.  
